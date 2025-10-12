@@ -1,0 +1,12 @@
+# Ignore data and large files
+data/
+outputs/
+*.parquet
+*.geojson
+*.gpkg
+*.zip
+*.csv
+
+# Ignore cache and temp files
+__pycache__/
+*.ipynb_checkpoints/
