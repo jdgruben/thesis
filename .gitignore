@@ -6,6 +6,8 @@ outputs/
 *.gpkg
 *.zip
 *.csv
+*.png
+*.xlsx
 
 # Ignore cache and temp files
 __pycache__/
