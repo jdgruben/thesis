@@ -1,6 +1,8 @@
 # Ignore data and large files
 data/
 outputs/
+raw_datasets/
+datasets/
 *.parquet
 *.geojson
 *.gpkg
@@ -8,6 +10,7 @@ outputs/
 *.csv
 *.png
 *.xlsx
+*.osm.pbf
 
 # Ignore cache and temp files
 __pycache__/
