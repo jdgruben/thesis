@@ -1,0 +1,41 @@
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Geospatial libraries
+geopandas>=0.12.0
+shapely>=1.8.0
+
+# Visualization libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Statistical and machine learning libraries
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# Spatial analysis libraries
+libpysal>=4.6.0
+esda>=2.4.0
+splot>=1.1.0
+
+# File handling and data download
+xlrd>=2.0.0
+openpyxl>=3.0.0
+gdown>=4.6.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional dependencies for geospatial work
+pyproj>=3.4.0
+fiona>=1.8.0
+rtree>=1.0.0
+
+# For better performance with large datasets
+pyarrow>=8.0.0
+
+# Development and formatting (optional)
+black>=22.0.0
+flake8>=5.0.0
